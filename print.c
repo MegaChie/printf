@@ -7,6 +7,7 @@ int _printf(const char *format, ...);
 {
 	int lettersCount, i;
 	char toPrint;
+	va_list list;
 
 	if (format == 0)
 	{
@@ -15,6 +16,6 @@ int _printf(const char *format, ...);
 	va_start(list, format)
 	for (i = 0; format && format[i] != '\0'; i++)
 	{
-		
+
 	}
 }
