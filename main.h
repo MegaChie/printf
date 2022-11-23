@@ -3,7 +3,6 @@
 
 #include <stdarg.h>
 #include <unistd.h>
-#include <math.h>
 #include <stdlib.h>
 
 /**
