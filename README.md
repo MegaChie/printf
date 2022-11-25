@@ -1,3 +1,2 @@
-# printf
-Function rebuild for ALX's team project
-by AminElhag and me.
+Team project done by Amin Elhaj and me
+A solution to AlX's C language programing project under the name: 0x11. C - printf
